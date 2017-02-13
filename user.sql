@@ -39,9 +39,9 @@ CREATE TABLE IF NOT EXISTS `user` (
 --
 
 INSERT INTO `user` (`id`, `nama`, `alamat`, `pekerjaan`) VALUES
-(1, 'Andi', 'Surabaya', 'web programmer'),
-(2, 'Santoso', 'Jakarta', 'Web Designer'),
-(6, 'Samsul', 'Sumedang', 'Pegawai');
+(1, 'ali', 'Tanggerang', 'wiraswasta'),
+(2, 'soni', 'Bandung', 'karyawan'),
+(6, 'dani', 'Sumedang', 'Pegawai');
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
